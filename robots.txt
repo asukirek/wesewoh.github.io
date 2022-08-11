@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://bodohkuwe.github.io/sitemap.xml
+Sitemap: https://wesewoh.github.io/sitemap.xml
